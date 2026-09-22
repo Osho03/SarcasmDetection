@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Too large for GitHub (331 MB) - regenerate from glove.6B.100d.txt source
+Data/glove.6B.100d.txt

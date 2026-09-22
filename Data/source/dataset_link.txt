@@ -1,0 +1,2 @@
+https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection 
+https://www.kaggle.com/danielwillgeorge/glove6b100dtxt

@@ -1,0 +1,11 @@
+tensorflow==2.15.1
+numpy==1.26.4
+pandas
+nltk==3.8.1
+tqdm
+scikit-learn
+matplotlib
+seaborn
+prettytable
+PyQt5
+pycm

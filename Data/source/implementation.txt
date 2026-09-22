@@ -1,0 +1,11 @@
+1. PreProcessing
+    --> Handle Negations
+    --> Removing Single Letter Words
+    --> Removing Multiple Spaces
+    --> Removing Punctuation
+    --> Removing Numbers
+    --> Removing Stopwords
+    --> Convert To Lower Case
+2. Glove Embeddings (Feature Engineering)
+3. CNN + RNN (Classification)
+4. Evaluation
